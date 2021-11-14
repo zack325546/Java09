@@ -24,7 +24,7 @@ class CCount//(a)
       System.out.println("cnt="+cnt);
    }
 }
-public class TESTB
+public class Class05
 {
    public static void main(String args[])
    {
