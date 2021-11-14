@@ -8,7 +8,7 @@ class CAdd
       System.out.println("1+2+...+"+n+"="+sum);
    }
 }
-public class TESTB
+public class Class06
 {
    public static void main(String args[])
    {
