@@ -10,7 +10,7 @@ class Caaa{//(c)否,因為會與文件名衝突
 		System.out.println("value="+value);
 	}
 }
-public class TESTB{
+public class Class03{
 	public static void main(String args[]) {
 		Caaa obj1=new Caaa();//(b)public Caaa()
 		Caaa obj2=new Caaa(12);//(b)public Caaa(int i)
